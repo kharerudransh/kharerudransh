@@ -6,9 +6,6 @@
 
 <br>
 
-<a href="https://github.com/kharerudransh">
-  <img src="https://komarev.com/ghpvc/?username=kharerudransh&label=Profile%20Views&style=flat-square" />
-</a>
 &nbsp;
 <a href="https://leetcode.com/u/rudranshkhare/">
 </a>
