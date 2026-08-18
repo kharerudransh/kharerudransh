@@ -1,21 +1,20 @@
-
 <div align="center">
 
 # Hi 👋, I'm Rudransh Khare
 
-### Full Stack Developer • Problem Solver • AI Enthusiast
+### Full Stack Developer · Problem Solver · AI Enthusiast
 
-<p>
-  <a href="https://github.com/kharerudransh">
-    <img src="https://img.shields.io/github/followers/kharerudransh?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/kharerudransh">
-    <img src="https://komarev.com/ghpvc/?username=kharerudransh&label=Profile%20Views&style=flat" />
-  </a>
-  <a href="https://leetcode.com/u/rudranshkhare/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/kharerudransh">
+  <img src="https://komarev.com/ghpvc/?username=kharerudransh&label=Profile%20Views&style=flat-square" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/rudranshkhare/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
+
+<br><br>
 
 </div>
 
@@ -23,156 +22,201 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student and Full Stack Developer** who enjoys building real-world applications and solving problems with code.
+I'm a **Computer Science student and Full Stack Developer** who enjoys building real-world applications, exploring AI, and solving problems with code.
 
-- 🔭 Currently building **[Perplexity](https://github.com/kharerudransh/Perplexity-FullStack)**
-- 🌱 Currently learning **MERN Stack, Advanced DSA & AI**
-- 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🤖 Interested in **AI-powered applications**
-- 👯 Open to collaborating on **Full Stack, AI & Open Source projects**
-- ⚡ **I learn by building, breaking, and rebuilding.**
+<br>
+
+* 🔭 **Currently building:** [Perplexity](https://github.com/kharerudransh/Perplexity-FullStack)
+* 🌱 **Currently learning:** MERN Stack, Advanced DSA & AI
+* 🧠 **Problem Solving:** Data Structures & Algorithms in Java
+* 🤖 **Interested in:** AI-powered applications and modern web development
+* 👯 **Open to:** Full Stack, AI & Open Source collaborations
+* ⚡ **Fun fact:** I learn by building, breaking, and rebuilding.
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c" />
-</p>
-
-### 🎨 Frontend
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c" />
 </p>
 
-### ⚙️ Backend & Databases
+<br>
+
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### 🔧 Tools
+<br>
+
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
 </p>
 
-### 🤖 AI / ML
+<br>
+
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
+
+<br>
 
 ---
 
 ## 🚀 Featured Projects
 
+<br>
+
+### 🔎 Perplexity — AI Search Application
+
+A full-stack AI-powered search and conversational application designed to provide intelligent, contextual responses through a modern web interface.
+
+**Stack:** React · Node.js · Express · MongoDB · AI APIs
+
+<p>
+  <a href="https://github.com/kharerudransh/Perplexity-FullStack">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+### 🎵 Moodify — Mood-Based Music Recommendation
+
+A web application that uses **Google MediaPipe Face Landmarker** for real-time facial expression detection and provides mood-based music recommendations.
+
+**Stack:** React · Node.js · Express · MongoDB · MediaPipe
+
+<p>
+  <a href="https://github.com/kharerudransh/Moodify">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
 <div align="center">
 
-<a href="https://github.com/kharerudransh/Perplexity-FullStack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kharerudransh&repo=Perplexity-FullStack&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/kharerudransh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kharerudransh&repo=Moodify&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/kharerudransh?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-> 🔎 **Perplexity** — Full-stack AI-powered search and conversational application.
-
-> 🎵 **Moodify** — AI-based mood detection and personalized music application.
-
-More projects → **[View all repositories](https://github.com/kharerudransh?tab=repositories)**
+<br>
 
 ---
 
 ## 🧠 DSA & Problem Solving
 
-I regularly practice **Data Structures & Algorithms in Java** and solve problems on LeetCode.
+I regularly practice **Data Structures & Algorithms in Java** and work on problems across different topics and difficulty levels.
+
+<br>
 
 <div align="center">
 
 <a href="https://leetcode.com/u/rudranshkhare/">
-<img src="https://leetcard.jacoblin.cool/rudranshkhare?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+  
+
+<a href="https://www.geeksforgeeks.org/profile/rudranshk">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
+
+<br>
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=kharerudransh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+   
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br><br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kharerudransh&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kharerudransh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br><br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharerudransh&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharerudransh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" />
 
 </div>
+
+<br>
 
 ---
 
 ## 🏆 GitHub Achievements
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kharerudransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kharerudransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
+
+<br>
 
 ---
 
 ## 🤝 Connect With Me
 
+<br>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rudransh-khare-55558233a/">
-<img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Khare-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+ 
 
 <a href="mailto:rudranshkhare1505@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+ 
 
 <a href="https://leetcode.com/u/rudranshkhare/">
-<img src="https://img.shields.io/badge/LeetCode-rudranshkhare-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/rudranshk">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
-### 💻 Build • Solve • Learn • Repeat
+### Build · Solve · Learn · Repeat
 
 </div>
-
