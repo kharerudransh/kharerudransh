@@ -11,7 +11,6 @@
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/rudranshkhare/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
 <br><br>
