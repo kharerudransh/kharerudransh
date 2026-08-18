@@ -1,24 +1,178 @@
-<h1 align="center">Hi 👋, I'm Rudransh Khare</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Building with AI & MERN</h3>
+```markdown
+<div align="center">
 
-- 🔭 I’m currently working on [Perplexity](https://github.com/kharerudransh/Perplexity-FullStack)
+# Hi 👋, I'm Rudransh Khare
 
-- 🌱 I’m currently learning **MERN Stack, Advanced DSA & AI**
+### Full Stack Developer • Problem Solver • AI Enthusiast
 
-- 👯 I’m looking to collaborate on **Open-source projects, AI applications & full-stack projects**
-
-- 📫 How to reach me **rudranshkhare1505@gmail.com**
-
-- ⚡ Fun fact **I learn by building, breaking, and rebuilding.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rudransh-khare-55558233a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rudransh-khare-55558233a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rudranshkhare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rudranshkhare/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/rudranshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/rudranshk" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/kharerudransh">
+    <img src="https://img.shields.io/github/followers/kharerudransh?label=Followers&style=flat" />
+  </a>
+  <a href="https://github.com/kharerudransh">
+    <img src="https://komarev.com/ghpvc/?username=kharerudransh&label=Profile%20Views&style=flat" />
+  </a>
+  <a href="https://leetcode.com/u/rudranshkhare/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kharerudransh&show_icons=true&locale=en&layout=compact" alt="kharerudransh" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science student and Full Stack Developer** who enjoys building real-world applications and solving problems with code.
+
+- 🔭 Currently building **[Perplexity](https://github.com/kharerudransh/Perplexity-FullStack)**
+- 🌱 Currently learning **MERN Stack, Advanced DSA & AI**
+- 🧠 Practicing **Data Structures & Algorithms in Java**
+- 🤖 Interested in **AI-powered applications**
+- 👯 Open to collaborating on **Full Stack, AI & Open Source projects**
+- ⚡ **I learn by building, breaking, and rebuilding.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kharerudransh/Perplexity-FullStack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kharerudransh&repo=Perplexity-FullStack&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/kharerudransh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kharerudransh&repo=Moodify&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 🔎 **Perplexity** — Full-stack AI-powered search and conversational application.
+
+> 🎵 **Moodify** — AI-based mood detection and personalized music application.
+
+More projects → **[View all repositories](https://github.com/kharerudransh?tab=repositories)**
+
+---
+
+## 🧠 DSA & Problem Solving
+
+I regularly practice **Data Structures & Algorithms in Java** and solve problems on LeetCode.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/rudranshkhare/">
+<img src="https://leetcard.jacoblin.cool/rudranshkhare?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kharerudransh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kharerudransh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharerudransh&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kharerudransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rudransh-khare-55558233a/">
+<img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Khare-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:rudranshkhare1505@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://leetcode.com/u/rudranshkhare/">
+<img src="https://img.shields.io/badge/LeetCode-rudranshkhare-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rudranshk">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build • Solve • Learn • Repeat
+
+</div>
+```
