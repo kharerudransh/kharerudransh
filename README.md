@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi 👋, I'm Rudransh Khare
@@ -175,4 +175,4 @@ I regularly practice **Data Structures & Algorithms in Java** and solve problems
 ### 💻 Build • Solve • Learn • Repeat
 
 </div>
-```
+
