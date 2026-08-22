@@ -2,7 +2,7 @@
 
 # Rudransh Khare
 
-### Full Stack Developer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; Problem Solver
+### Full Stack Developer &nbsp;|&nbsp; Problem Solver
 
 <a href="https://www.linkedin.com/in/rudransh-khare-55558233a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -66,12 +66,8 @@ A comparison platform where several AI systems respond to the same prompt, letti
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kharerudransh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kharerudransh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kharerudransh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Top languages" />
 
 </div>
 
