@@ -1,124 +1,275 @@
+<!-- ================= HERO SECTION ================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rudransh+%F0%9F%91%8B;Full+Stack+Developer;AI%2FML+Enthusiast;Building+with+MERN+%2B+LangChain" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=200&section=header&text=Rudransh%20Khare&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Rudransh Khare profile banner"/>
 
-<br>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Exploring+Agentic+AI+%26+LangGraph;Solving+DSA+Problems+with+Java;Turning+Ideas+Into+Working+Products" alt="Animated introduction"/>
+</a>
+
+<br/>
 
 <a href="https://github.com/kharerudransh">
-  <img src="https://komarev.com/ghpvc/?username=kharerudransh&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kharerudransh&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile views"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/rudranshkhare/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/rudransh-khare-55558233a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="mailto:rudranshkhare1505@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br/><br/>
+
+**Engineering practical solutions with Full-Stack Development, AI and DSA.**
 
 </div>
 
-<br>
+---
 
-## 👨‍💻 About Me
+## `01` — About Me
 
-Final-year **B.Tech CSE** student at JSS Academy of Technical Education. I build full-stack MERN apps and enjoy wiring AI into them — agentic tool-calling, LangGraph state machines, computer-vision-driven UX.
+```text
+Name       : Rudransh Khare
+Education  : B.Tech CSE, JSS Academy of Technical Education
+Focus      : Software Development & Full-Stack Engineering
+Languages  : Java, JavaScript, TypeScript, Python
+Interests  : Backend Systems, Agentic AI, Generative AI
+Mindset    : Learn → Build → Debug → Improve
+```
 
-- 🔭 **Currently building:** an AI chat agent with live tool-calling (weather, email, train/flight tracking) and a LangGraph-based "AI judge" battle app
-- 🌱 **Currently learning:** LangGraph, agentic AI patterns, advanced DSA
-- 🧠 **Problem solving:** DSA in Java — [LeetCode](https://leetcode.com/u/rudranshkhare/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/rudranshk)
-- 👯 **Open to:** Full Stack, AI/agentic tooling, and open-source collaborations
-- ⚡ **Fun fact:** I learn by building, breaking, and rebuilding
+- Building full-stack applications using the MERN stack.
+- Exploring AI agents, tool calling, LangChain and LangGraph.
+- Practicing Data Structures and Algorithms using Java.
+- Interested in backend engineering, system design and scalable applications.
+- Open to software development opportunities and meaningful collaborations.
 
-<br>
+---
 
-## 🛠️ Tech Stack
+## `02` — Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c" /><br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" alt="Programming languages"/>
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,redux&theme=dark" alt="Frontend technologies"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" alt="Backend technologies and databases"/>
+
+### AI & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm&theme=dark" alt="Developer tools"/>
 
 </div>
 
-<br>
+**AI ecosystem:** Google Gemini · LangChain · LangGraph · RAG · MediaPipe
 
-## 🚀 Featured Projects
+---
 
-### 🎵 [Moodify — Mood-Based Music Recommender](https://github.com/kharerudransh/Moodify)
-Final-year project. Detects mood in real time from a webcam feed using **Google MediaPipe Face Landmarker** blendshapes, then streams matching songs.
-- Full JWT auth (httpOnly cookies) with a Redis-backed logout blacklist
-- Song upload pipeline: ID3 tag extraction (`node-id3`) + audio/cover storage on ImageKit
-- Mood-based playback via MongoDB `$sample` aggregation, plus a custom animated player UI
+## `03` — Featured Projects
 
-**Stack:** React (Vite) · Node.js · Express · MongoDB · Redis · MediaPipe
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+<h3 align="center">🎵 Moodify</h3>
 
-### 🔎 [Perplexity — AI Chat Agent](https://github.com/kharerudransh/Perplexity-FullStack)
-A LangChain-based conversational agent (Gemini models) with real tool-calling — not just chat.
-- Tools for web search, weather, email sending, and **live train (RailRadar) / flight (AviationStack) tracking**
-- Roadmap: hotel-rate lookup to become a full itinerary planner (flights + trains + hotels + weather)
-- Deployed: [backend on Render](https://perplexity-fullstack.onrender.com) · [frontend on Vercel](https://perplexity-full-stack-ecru.vercel.app/)
+<div align="center">
+<strong>Emotion-Aware Music Experience</strong>
+</div>
 
-**Stack:** React · Node.js · Express · MongoDB Atlas · LangChain · Gemini
+A music recommendation application that uses facial-expression signals to personalize the listening experience.
 
-<br>
+**Key engineering features**
 
-### ⚔️ AI Battle Arena
-A MERN app where AI agents face off, orchestrated with **LangGraph** state graphs and a dedicated "judge" node that scores/decides outcomes.
+- Real-time facial landmark analysis with MediaPipe Face Landmarker.
+- JWT authentication using httpOnly cookies.
+- Redis-backed logout token blacklist.
+- Audio metadata extraction with `node-id3`.
+- Audio and cover storage using ImageKit.
+- Mood-based recommendations using MongoDB aggregation.
 
-**Stack:** React · Node.js · Express · MongoDB · `@langchain/langgraph`
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Redis` `MediaPipe`
+
+<div align="center">
+<a href="https://github.com/kharerudransh/Moodify">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Moodify source code"/>
+</a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔎 Perplexity-FullStack</h3>
+
+<div align="center">
+<strong>AI Assistant with Tool Calling</strong>
+</div>
+
+A conversational AI application that connects language models with tools and external services to perform useful tasks.
+
+**Key engineering features**
+
+- Gemini-powered conversational workflows with LangChain.
+- Tool calling for search, weather and email operations.
+- Live train and flight tracking integrations.
+- Real-time communication through WebSockets.
+- Separate frontend and backend deployments.
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB Atlas` `LangChain` `Gemini`
+
+<div align="center">
+<a href="https://github.com/kharerudransh/Perplexity-FullStack">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Perplexity source code"/>
+</a>
+<a href="https://perplexity-full-stack-ecru.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live frontend"/>
+</a>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚔️ AI Battle Arena</h3>
+
+<div align="center">
+<strong>Multi-Agent AI Evaluation</strong>
+</div>
+
+An AI application concept that orchestrates model responses and evaluates their outcomes through a dedicated judge.
+
+**Key engineering goals**
+
+- Orchestrate workflows using LangGraph state graphs.
+- Coordinate model responses and evaluation steps.
+- Structure an extensible full-stack architecture.
+- Explore model comparison and AI evaluation workflows.
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `LangGraph`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 DSA with Java</h3>
+
+<div align="center">
+<strong>Problem Solving & Algorithms</strong>
+</div>
+
+Consistent practice in algorithmic problem-solving, data structures and interview preparation.
+
+**Topics explored**
+
+- Arrays, strings and hashing.
+- Linked lists, stacks and queues.
+- Binary trees, BSTs and graphs.
+- Binary search and greedy algorithms.
+- Recursion, backtracking and dynamic programming.
+
+**Language**
+
+`Java`
+
+<div align="center">
+<a href="https://leetcode.com/u/rudranshkhare/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/kharerudransh?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
 
-<br>
+---
 
-## 📊 GitHub Stats
+## `04` — GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kharerudransh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/kharerudransh">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kharerudransh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
 
-<br><br>
+<a href="https://github.com/kharerudransh">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharerudransh&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=kharerudransh&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=kharerudransh&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharerudransh&theme=tokyo-night&hide_border=true&area=true" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharerudransh&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
-<br>
+---
 
-## 🏆 Achievements
+## `05` — Achievements & Progress
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kharerudransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kharerudransh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub profile trophies"/>
 
 </div>
 
-<br>
+**Current focus**
+
+- Strengthening DSA and core computer science fundamentals.
+- Building production-oriented MERN applications.
+- Exploring agentic AI and multi-step LLM workflows.
+- Improving backend architecture and system design skills.
+
+---
+
+## `06` — Let's Connect
 
 <div align="center">
 
-### 💬 Build · Solve · Learn · Repeat
+**Have an interesting idea? Let's build something useful.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%" />
+<a href="https://github.com/kharerudransh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rudransh-khare-55558233a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rudranshkhare1505@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+*Build · Solve · Learn · Repeat*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=110&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
