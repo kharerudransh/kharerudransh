@@ -82,30 +82,35 @@ Mindset    : Learn → Build → Debug → Improve
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎵 Moodify</h3>
+<h3 align="center">🛍️ Clothingg</h3>
 
 <div align="center">
-<strong>Emotion-Aware Music Experience</strong>
+<strong>Multi-Vendor Fashion Marketplace</strong>
+<br/><br/>
+<a href="https://github.com/kharerudransh/CLOTHINGG">
+<img src="https://img.shields.io/badge/MERN-Stack-238636?style=flat-square" alt="MERN stack"/>
+</a>
+<a href="https://github.com/kharerudransh/CLOTHINGG">
+<img src="https://img.shields.io/badge/E--Commerce-Marketplace-58A6FF?style=flat-square" alt="E-commerce"/>
+</a>
 </div>
 
-A music recommendation application that uses facial-expression signals to personalize the listening experience.
+A full-stack fashion marketplace with dedicated buyer and seller experiences.
 
-**Key engineering features**
+**Highlights**
 
-- Real-time facial landmark analysis with MediaPipe Face Landmarker.
-- JWT authentication using httpOnly cookies.
-- Redis-backed logout token blacklist.
-- Audio metadata extraction with `node-id3`.
-- Audio and cover storage using ImageKit.
-- Mood-based recommendations using MongoDB aggregation.
+- Separate Buyer and Seller dashboards with protected routes and role-based redirects.
+- JWT authentication using HttpOnly cookies, bcrypt and Google OAuth 2.0.
+- Email verification and password reset using Nodemailer.
+- Zod-based API request validation.
+- Product variants with size, color, individual pricing, stock and multiple images.
+- Cloud image uploads through Multer and ImageKit CDN.
 
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `Redis` `MediaPipe`
+**Technologies:** React, Redux Toolkit, Node.js, Express, MongoDB, Passport.js, JWT, Zod
 
 <div align="center">
-<a href="https://github.com/kharerudransh/Moodify">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Moodify source code"/>
+<a href="https://github.com/kharerudransh/CLOTHINGG">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Clothingg source code"/>
 </a>
 </div>
 
@@ -115,83 +120,96 @@ A music recommendation application that uses facial-expression signals to person
 <h3 align="center">🔎 Perplexity-FullStack</h3>
 
 <div align="center">
-<strong>AI Assistant with Tool Calling</strong>
+<strong>AI Chat Agent Platform</strong>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI-Tool_Calling-58A6FF?style=flat-square" alt="AI tool calling"/>
+<img src="https://img.shields.io/badge/LangChain-Gemini-238636?style=flat-square" alt="LangChain and Gemini"/>
 </div>
 
-A conversational AI application that connects language models with tools and external services to perform useful tasks.
+A conversational AI agent that selects tools and performs actions based on natural-language queries.
 
-**Key engineering features**
+**Highlights**
 
-- Gemini-powered conversational workflows with LangChain.
-- Tool calling for search, weather and email operations.
-- Live train and flight tracking integrations.
-- Real-time communication through WebSockets.
-- Separate frontend and backend deployments.
+- Integrated Google Gemini with LangChain for agentic workflows.
+- Built tools for email dispatch, weather, web search and train/flight tracking.
+- Implemented JWT authentication with Redis-backed token blacklisting.
+- Used MongoDB Atlas for data persistence.
+- Added WebSocket-based real-time communication and Three.js visuals.
+- Deployed frontend and backend separately.
 
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB Atlas` `LangChain` `Gemini`
+**Technologies:** React, Node.js, Express, MongoDB Atlas, LangChain, Gemini, Redis
 
 <div align="center">
 <a href="https://github.com/kharerudransh/Perplexity-FullStack">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Perplexity source code"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Perplexity source code"/>
 </a>
 <a href="https://perplexity-full-stack-ecru.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live frontend"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Perplexity live demo"/>
 </a>
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">⚔️ AI Battle Arena</h3>
+<h3 align="center">⚖️ AIVerdict</h3>
 
 <div align="center">
-<strong>Multi-Agent AI Evaluation</strong>
+<strong>Multi-Model AI Judge Platform</strong>
+<br/><br/>
+<img src="https://img.shields.io/badge/Multi--Agent-AI-58A6FF?style=flat-square" alt="Multi-agent AI"/>
+<img src="https://img.shields.io/badge/LangGraph-Orchestration-238636?style=flat-square" alt="LangGraph"/>
 </div>
 
-An AI application concept that orchestrates model responses and evaluates their outcomes through a dedicated judge.
+An AI evaluation platform that compares two model responses and uses a third judge model to score their quality.
 
-**Key engineering goals**
+**Highlights**
 
-- Orchestrate workflows using LangGraph state graphs.
-- Coordinate model responses and evaluation steps.
-- Structure an extensible full-stack architecture.
-- Explore model comparison and AI evaluation workflows.
+- Generates independent responses using Groq and Cohere.
+- Evaluates responses through a dedicated judge model.
+- Produces criteria-based scores and reasoning, including constraint adherence and accuracy.
+- Orchestrates multi-agent evaluation using LangGraph state graphs.
+- Implements JWT authentication with a Node.js and TypeScript backend.
+- Features a responsive React interface with an interactive canvas-based UI.
 
-**Stack**
+**Technologies:** React, Node.js, TypeScript, LangGraph, Groq, Cohere, MongoDB
 
-`React` `Node.js` `Express` `MongoDB` `LangGraph`
+<div align="center">
+<a href="https://github.com/kharerudransh?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 DSA with Java</h3>
+<h3 align="center">🎵 Moodify</h3>
 
 <div align="center">
-<strong>Problem Solving & Algorithms</strong>
+<strong>Facial Expression-Based Music Recommender</strong>
+<br/><br/>
+<img src="https://img.shields.io/badge/Computer_Vision-MediaPipe-58A6FF?style=flat-square" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/MERN-Full_Stack-238636?style=flat-square" alt="MERN stack"/>
 </div>
 
-Consistent practice in algorithmic problem-solving, data structures and interview preparation.
+A personalized music application that analyzes facial expressions in real time and recommends songs from a user's playlist.
 
-**Topics explored**
+**Highlights**
 
-- Arrays, strings and hashing.
-- Linked lists, stacks and queues.
-- Binary trees, BSTs and graphs.
-- Binary search and greedy algorithms.
-- Recursion, backtracking and dynamic programming.
+- Tracks facial landmarks using Google MediaPipe Face Landmarker.
+- Processes 52 blendshape scores per frame in the browser.
+- Connects facial-expression analysis to mood-based song recommendations.
+- Implements JWT authentication using HttpOnly cookies.
+- Uses Redis-backed token blacklisting for logout.
+- Extracts song metadata with `node-id3` and stores audio and cover images using ImageKit.
+- Uses MongoDB aggregation for mood-based playback.
 
-**Language**
-
-`Java`
+**Technologies:** React, Node.js, Express, MongoDB, Redis, MediaPipe, ImageKit
 
 <div align="center">
-<a href="https://leetcode.com/u/rudranshkhare/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+<a href="https://github.com/kharerudransh/Moodify">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Moodify source code"/>
 </a>
 </div>
 
@@ -202,7 +220,7 @@ Consistent practice in algorithmic problem-solving, data structures and intervie
 <div align="center">
 
 <a href="https://github.com/kharerudransh?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
